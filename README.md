@@ -63,12 +63,14 @@ streamlit run app.py
 
 
 
-### 7️⃣ Model Evaluation (Optional but Good)
-## 📊 Model Performance
 
-- MAE  : 243,241  
-- RMSE : 279,859  
-- R²   : -0.01  
+### 📊 Model Performance
+
+Model Performance:
+MAE  : 243241.98
+MSE  : 78321466146.03
+RMSE : 279859.73
+R²   : -0.01
 
 These results indicate that the model has room for improvement, which will be addressed in future versions.
 
