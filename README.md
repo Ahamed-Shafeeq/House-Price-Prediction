@@ -48,12 +48,14 @@ HousePricePrediction/
 
 This structure keeps the dataset, model, training logic, and application code organized and easy to maintain.
 
-## ▶ How to Run
+
+## ▶️ How to Run
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/Ahamed-Shafeeq/House-Price-Prediction.git
-cd House-Price-Prediction
+cd HousePricePrediction
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
@@ -61,10 +63,7 @@ streamlit run app.py
 
 
 
----
-
 ### 7️⃣ Model Evaluation (Optional but Good)
-```md
 ## 📊 Model Performance
 
 - MAE  : 243,241  
