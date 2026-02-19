@@ -54,13 +54,13 @@ This structure keeps the dataset, model, training logic, and application code or
 ### 1. Clone the repository
 
 ```bash
+
 git clone https://github.com/Ahamed-Shafeeq/House-Price-Prediction.git
 cd HousePricePrediction
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
-
 
 
 
