@@ -88,7 +88,3 @@ Aspiring AI/Machine Learning Engineer.
 
 🔗 GitHub: https://github.com/Ahamed-Shafeeq  
 🔗 LinkedIn: https://www.linkedin.com/in/ahamed-shafeeq-822419380
-
-
-
-
