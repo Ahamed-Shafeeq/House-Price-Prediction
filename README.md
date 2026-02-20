@@ -65,7 +65,6 @@ streamlit run app.py
 
 
 ## 📊 Model Performance
-
 Model Performance:
 MAE  : 243241.98
 MSE  : 78321466146.03
@@ -75,14 +74,13 @@ R²   : -0.01
 These results indicate that the model has room for improvement, which will be addressed in future versions.
 
 ## 🚀 Future Improvements
-
 - Try advanced models (Random Forest, XGBoost)
 - Feature engineering
 - Hyperparameter tuning
 - Model deployment improvements
 
-## 👤 Author
 
+## 👤 Author
 **Ahamed Shafeeq S**  
 Aspiring AI/Machine Learning Engineer.
 
