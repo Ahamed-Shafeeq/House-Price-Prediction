@@ -10,7 +10,7 @@ Users can enter house-related features through a Streamlit web interface and ins
 ## 🎯 Motivation & Learning
 
 I may not have trained this model perfectly, but I did my best using my current understanding of Linear Regression. 
-This project was built by implementing concepts learned from the Coursera course 
+This project was built by implementing concepts learned from the Coursera course
 **"IBM Machine Learning with Python"**.
 
 In the future, I plan to improve this project by experimenting with other machine learning algorithms 
