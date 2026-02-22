@@ -5,7 +5,7 @@ A machine learning web application that predicts house prices based on user inpu
 ## 📌 Project Overview
 
 This project is an end-to-end machine learning application that predicts house prices using a Linear Regression model. 
-Users can enter house-related features through a Streamlit web interface and instantly receive a predicted price.
+Users can enter house-related features through a Streamlit web interface and instantly receive a predicted.
 
 ## 🎯 Motivation & Learning
 
