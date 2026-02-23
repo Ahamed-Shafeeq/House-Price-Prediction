@@ -64,7 +64,7 @@ streamlit run app.py
 
 
 
-## 📊 Model.
+## 📊 Model Performance.
 Model Performance:
 MAE  : 243241.98
 MSE  : 78321466146.03
