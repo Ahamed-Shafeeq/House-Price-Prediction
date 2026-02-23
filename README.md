@@ -71,7 +71,7 @@ MSE  : 78321466146.03
 RMSE : 279859.73
 R²   : -0.01
 
-These results indicate that the model has room for improvement, which will be addressed in future.
+These results indicate that the model has room for improvement, which will be addressed in future versions.
 
 ## 🚀 Future Improvements
 - Try advanced models (Random Forest, XGBoost)
