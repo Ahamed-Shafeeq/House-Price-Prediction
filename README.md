@@ -82,7 +82,7 @@ These results indicate that the model has room for improvement, which will be ad
 
 ## 👤 Author
 **Ahamed Shafeeq S**  
-Aspiring AI/Machine Learning .
+Aspiring AI/Machine Learning Engineer.
 
 🔗 GitHub: https://github.com/Ahamed-Shafeeq  
 🔗 LinkedIn: https://www.linkedin.com/in/ahamed-shafeeq-822419380
